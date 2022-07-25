@@ -1,0 +1,17 @@
+.sideleft{
+    height: 70vh;
+    background-color: lightslategrey;
+    margin-top: 45px;
+    margin-right: 10px;
+}
+.maincontent{
+    height: 70vh;
+    background-color: rgb(58, 62, 66);
+    margin-top: 45px;
+    margin-right: 10px;
+}
+.sideright{
+    height: 70vh;
+    background-color: rgb(188, 191, 194);
+    margin-top: 45px;
+}
